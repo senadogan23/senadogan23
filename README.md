@@ -1,8 +1,6 @@
 # 👋 Merhaba, ben Sena Doğan
 
 🎓 Fırat Üniversitesi - Yazılım Mühendisliği öğrencisiyim. 
-
-*2.sınıfım ve gelişmeleri yakından görmek merakımı artırıyor ve öğrenmeye daha da hevesleniyorum. 
 * Şu anda C++ ve Web Tasarım konularında çalışıyorum.  
 * BTK Akademi ve projelerle kendimi geliştiriyorum.
 
