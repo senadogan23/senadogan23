@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋 I'm Sena Doğan</h1>
 <p align="center">
   <b>Software Engineering Student @Fırat University</b><br>
-  Focusing on <b>Artificial Intelligence</b> | <b>Mobile Development</b> | <b>Cybersecurity</b>
+  Aspiring <b>AI Researcher</b> | <b>Mobile Developer</b> | <b>Security Learner</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Python%20%2F%20ML-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Learning-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%26%20Dart-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-RedTeaming-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Enthusiast-red?style=flat-square" />
 </p>
 
 ---
 
 ### 🚀 Quick Glance
-- 🤖 **Focus:** Working on AI/ML models and data-driven solutions.
-- 📱 **Mobile:** Building cross-platform apps with Flutter.
-- 🛡️ **Interest:** Exploring cybersecurity and secure software design.
-- 💻 **Stack:** Python, Dart/Flutter, C++, PHP, JavaScript, SQL.
+- 🤖 **Interest:** Deeply interested in AI/ML and exploring data science.
+- 📱 **Mobile:** Learning to build cross-platform apps with Flutter.
+- 🛡️ **Security:** Curious about cybersecurity fundamentals and secure coding.
+- 💻 **Stack:** Python, Dart, C++, PHP, JavaScript, SQL.
 
 ---
 
