@@ -48,5 +48,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/senadogan23"><b>LinkedIn</b></a> • 
-  <a href="mailto:email-adresin@gmail.com"><b>Email</b></a>
+  <a href="mailto:drsenadogan@gmail.com"><b>Email</b></a>
 </p>
