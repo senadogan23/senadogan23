@@ -38,7 +38,11 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Journey (Elevation & Stats)
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=senadogan23&theme=dark" alt="Sena's 3D Contributions" width="85%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senadogan23&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%" />
@@ -59,4 +63,8 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
   <a href="https://www.kaggle.com/senadogan23" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=senadogan23&color=purple&style=flat-square" alt="Sena's Profile Views" />
 </p>
