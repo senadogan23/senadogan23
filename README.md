@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Learning-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Enthusiast-red?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
