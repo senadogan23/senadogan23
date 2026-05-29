@@ -29,7 +29,7 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&theme=dark" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -38,15 +38,15 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 
 ---
 
-### 📊 My GitHub Journey (Elevation & Stats)
+### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=senadogan23&theme=dark" alt="Sena's 3D Contributions" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senadogan23&theme=tokyonight&hide_border=true" alt="Sena's GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senadogan23&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senadogan23&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senadogan23&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senadogan23&theme=tokyonight&layout=compact&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -63,8 +63,4 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
   <a href="https://www.kaggle.com/senadogan23" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=senadogan23&color=purple&style=flat-square" alt="Sena's Profile Views" />
 </p>
