@@ -44,7 +44,7 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senadogan23&theme=dark&hide_border=true" alt="Sena's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senadogan23&theme=tokyonight&hide_border=true" alt="Sena's GitHub Streak" />
 </p>
 
 ---
