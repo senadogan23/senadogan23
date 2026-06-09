@@ -4,11 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Learning-121212?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Enthusiast-121212?style=flat-square&logo=linux&logoColor=white" />
-</p>
-
 ---
 
 ### 💫 About Me
