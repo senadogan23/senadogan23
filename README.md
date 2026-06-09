@@ -48,12 +48,13 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 
 ---
 
-### 🚀 What I'm Focused On
+### 🚀 What I'm Currently Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python_Development-121212?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents_Development-121212?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-121212?style=flat-square&logo=scikit-learn&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
