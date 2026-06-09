@@ -1,8 +1,6 @@
-# Hi there, I'm Sena Doğan 👋
-
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9C27B0&lines=Software+Engineering+Student;AI+%26+Cybersecurity+Enthusiast;Building+Agentic-Notes+%F0%9F%A4%96" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9C27B0&lines=Merhaba%2C+Ben+Sena+Do%C4%9Fan!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing Effect" />
   </a>
 </p>
 
@@ -57,3 +55,5 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senadogan23&theme=tokyonight&hide_border=true" />
 </p>
+
+---
