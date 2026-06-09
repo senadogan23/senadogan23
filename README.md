@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Learning-purple?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Enthusiast-red?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Learning-121212?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Enthusiast-121212?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -51,9 +51,9 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 ### 🚀 What I'm Focused On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python_Development-Advanced-blue?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-Development-orange?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-Deep_Dive-green?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Development-121212?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents_Development-121212?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-121212?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
