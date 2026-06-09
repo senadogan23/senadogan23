@@ -13,13 +13,12 @@
 
 ### 💫 About Me
 
-I am a **Software Engineering Student** at Fırat University (3rd Year), deeply passionate about bridging the gap between intelligent systems and secure development. My journey is driven by curiosity, continuous learning, and building impactful digital solutions.
+I am a **Software Engineering Student** at Fırat University (3rd Year). I am focused on Artificial Intelligence and always excited to learn new technologies. Right now, I love building practical digital solutions and integrating AI features into web applications.
 
-- 🤖 **Artificial Intelligence:** Actively exploring data science, machine learning models, and predictive analytics.
-- 📱 **Mobile Development:** Building smooth, cross-platform experiences using Flutter & Dart.
-- 🛡️ **Cybersecurity:** Curious about secure coding practices, cloud security fundamentals, and CTF challenges.
-- 👩‍💻 **Community & Collaboration:** Love engaging in tech bootcamps, hackathons, and collaborative engineering projects.
-
+- 🤖 **Artificial Intelligence:** Exploring machine learning and focused on deploying AI capabilities into web platforms.
+- 📱 **Mobile Development:** Experienced in building cross-platform apps using Flutter & Dart.
+- 🛡️ **Cybersecurity:** Curious about secure coding practices and keeping up with cloud security basics.
+- 👩‍💻 **Community & Collaboration:** Enjoying tech bootcamps, hackathons, and building projects together with developer teams.
 ---
 
 ### 🛠️ Tech Stack & Tools
