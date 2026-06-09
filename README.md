@@ -22,14 +22,11 @@ I am a **Software Engineering Student** at Fırat University (3rd Year), deeply 
 
 ---
 
-### 🚀 What I'm Focused On
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-Liver_Risk_Prediction-blue?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-Agentic--Notes-orange?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Security-Research-red?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
-
+  <img src="https://img.shields.io/badge/Data_Science-Pandas_%26_Python-blue?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Development-LLMs_%26_OpenAI-orange?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-AI_Security_Research-red?style=for-the-badge&logo=shield&logoColor=white" />
+</p
 ---
 
 ### 🛠️ Tech Stack & Tools
