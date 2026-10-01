@@ -9,7 +9,7 @@ I'm a **4th-year Software Engineering student at Fırat University**, focused on
 - 🤖 **AI & Machine Learning:** neural networks, computer vision and LLM-powered applications
 - 📱 **Mobile Development:** cross-platform apps with Flutter & Dart
 - 🛡️ **Security:** container security and secure coding practices
-- 👩‍💻 **Community:** bootcamps, hackathons and volunteering at T3 Vakfı
+- 👩‍💻 **Community:** bootcamps, hackathons and volunteering 
 
 ---
 
