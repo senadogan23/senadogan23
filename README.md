@@ -9,7 +9,7 @@ I'm a **4th-year Software Engineering student at Fırat University**, focused on
 - 🤖 **AI & Machine Learning:** neural networks, computer vision and LLM-powered applications
 - 📱 **Mobile Development:** cross-platform apps with Flutter & Dart
 - 🛡️ **Security:** container security and secure coding practices
-- 👩‍💻 **Community:** bootcamps, hackathons and volunteering 
+- 👩‍💻 **Community:** bootcamps, hackathons and volunteering
 
 ---
 
@@ -19,7 +19,7 @@ I'm a **4th-year Software Engineering student at Fırat University**, focused on
 |---|---|---|
 | **[Neural Network from Scratch](https://github.com/senadogan23/neural-network-from-scratch)** | Handwritten digit recognition with a neural network written in pure NumPy, 98.3% test accuracy, works on photos of your own handwriting | Python · NumPy |
 | **[Agentic Notes](https://github.com/senadogan23/agentic-notes)** | AI study agent with session memory: document analysis, summaries and active-recall question generation | Python · Streamlit · Groq · Llama 3.3 |
-| **[HepataVision AI](https://github.com/senadogan23/HepataVision-AI)** | _One sentence: what it detects/classifies and from which images_ | Python · Jupyter |
+| **[HepataVision AI](https://github.com/senadogan23/HepataVision-AI)** | Liver disease prediction from blood test results, comparing 6 ML models with ROC/AUC and feature-importance analysis (team project) | Python · scikit-learn · XGBoost |
 | **[Docker Security Sandbox](https://github.com/senadogan23/docker-container-security-sandbox)** | DevSecOps lab showing common Docker container vulnerabilities and how to fix them | Docker · Python |
 
 ---
@@ -81,6 +81,5 @@ I'm a **4th-year Software Engineering student at Fırat University**, focused on
 
 <p align="left">
 <a href="https://www.linkedin.com/in/senadogan23/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.kaggle.com/senadogan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="mailto:drsenadogan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
